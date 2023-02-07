@@ -1,0 +1,29 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 100;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcoral;
+    font-weight: 300;
+    color: antiquewhite;
+}
+
+.highlight {
+    color: blue;
+}
+
+.parent {
+    color: green;
+}
+
+.parent .child {
+    color: blue
+}

@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    background-color: green;
+    font-weight: 400;
+}
+
+div {
+    font-size: 30px;
+    color: red;
+}
+
+.hamburg {
+    background-color: brown;
+}
+
+.pizza {
+    background-color: yellow;
+}
+
+.drink {
+    background-color: lightblue;
+}

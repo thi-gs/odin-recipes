@@ -1,0 +1,27 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 200;
+}
+
+.main,
+.subt {
+    color: black;
+    font-weight: 600;
+}
+
+#unique {
+    color: red;
+}
+
+body {
+    background-color: rgb(67, 124, 67);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: aliceblue;
+}
