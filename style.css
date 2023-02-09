@@ -8,21 +8,42 @@ h1 {
     text-align: center;
     background-color: green;
     font-weight: 400;
+    margin-top: 80px;
+    margin-bottom: 100px;;
 }
 
 div {
     font-size: 30px;
-    color: red;
 }
 
 .hamburg {
     background-color: brown;
+    border: 5px double white;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;   
+    padding: 50px;
+    height: 100px;
+    width: 200px;
 }
 
 .pizza {
     background-color: yellow;
+    border: 5px double white;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px; 
+    padding: 50px;
+    height: 100px;
+    width: 200px;
 }
 
 .drink {
     background-color: lightblue;
+    border: 5px double white;
+    display: block;
+    text-align: center;
+    padding: 50px;
+    height: 100px;
+    width: 200px;
 }
